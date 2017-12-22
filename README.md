@@ -1,9 +1,10 @@
 Hfrcoin integration/staging tree
 ================================
+Official website:
+http://www.hfrco.in
 
-http://forum.hardware.fr/forum2.php?config=hfr.inc&cat=13&subcat=423&post=107837&page=1&p=1&sondage=0&owntopic=1&trash=0&trash_post=0&print=0&numreponse=0&quote_only=0&new=0&nojs=0
-
-http://www.hfrcoin.com
+french forum:
+https://forum.hardware.fr/hfr/Discussions/Societe/hfrcoin-retour-gary-sujet_107837_1.htm
 
 
 Copyright (c) 2009-2013 Bitcoin Developers
@@ -16,13 +17,11 @@ Hfrcoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
  - 2.5 minute block targets
  - subsidy halves in 840k blocks (~4 years)
  - ~1.01 million total coins
-
-The rest is the same as Bitcoin.
  - 0.6 coins per block
  - 2016 blocks to retarget difficulty
 
 For more information, as well as an immediately useable, binary version of
-the Hfrcoin client sofware, see http://www.hfrcoin.org.
+the Hfrcoin client sofware, see http://www.hfrco.in
 
 License
 -------
@@ -49,8 +48,7 @@ match the project's coding conventions (see `doc/coding.txt`) or are
 controversial.
 
 The `master` branch is not regularly built and tested, but is not guaranteed to be
-completely stable. [Tags](https://github.com/bitcoin/bitcoin/tags) are created
-regularly to indicate new official, stable release versions of Hfrcoin.
+completely stable. 
 
 Testing
 -------
