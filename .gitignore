@@ -1,0 +1,16 @@
+hfrcoin-qt
+hfrcoin-qt.exe
+qrc_bitcoin.cpp
+*.o
+
+build
+Makefile
+Makefile.test
+
+.DS_Store
+Desktop.ini
+Thumbs.db
+
+*.pdb
+
+*~
